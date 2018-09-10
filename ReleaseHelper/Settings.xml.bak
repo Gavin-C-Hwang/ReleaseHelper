@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <systems>
+    <list>
+      <systemName>MFG</systemName>
+      <searchYn>Y</searchYn>
+      <pathWorkspace>C:\Users\78068\workspace\ezmweb</pathWorkspace>
+      <devServerWorkspace>\\10.77.14.98\jeus_lgcns.mfg</devServerWorkspace>
+      <prodServerWorkspace>\\165.244.227.203\jeus_mfg</devServerWorkspace>
+    </list>
+    <list>
+      <systemName>MFG-P</systemName>
+      <searchYn>Y</searchYn>
+      <pathWorkspace>C:\Users\78068\workspace\lgmweb</pathWorkspace>
+      <devServerWorkspace>\\10.77.14.98\jeus_lgcns.mfg.partner</devServerWorkspace>
+      <prodServerWorkspace>\\165.244.227.203\jeus_mfgpartner</devServerWorkspace>
+    </list>
+    <list>
+      <systemName>PLM</systemName>
+      <searchYn>Y</searchYn>
+      <pathWorkspace>C:\Users\78068\workspace\PLM\PLM_dev</pathWorkspace>
+      <devServerWorkspace>null</devServerWorkspace>
+      <prodServerWorkspace>null</devServerWorkspace>
+    </list>
+    <list>
+      <systemName>X-NET</systemName>
+      <searchYn>Y</searchYn>
+      <pathWorkspace>C:\Users\78068\workspace\XNET\xnet</pathWorkspace>
+      <devServerWorkspace>null</devServerWorkspace>
+      <prodServerWorkspace>null</devServerWorkspace>
+    </list>
+  </systems>
+  <searchFileTypes>
+  </searchFileTypes>
+  <targetFolder>D:황철업무폴더</targetFolder>
+  
+  
+</root>

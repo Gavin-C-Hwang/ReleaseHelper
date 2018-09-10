@@ -1,0 +1,29 @@
+﻿1.시스템이름:MFG
+2.로컬프로젝트경로:C:\Users\78068\workspace\ezmweb
+3.개발망프로젝트경로:\\10.77.14.98\jeus_lgcns.mfg
+4.운영프로젝트경로:\\165.244.227.203\jeus_mfg
+
+1.시스템이름 : MFG-P
+2.로컬프로젝트경로:C:\Users\78068\workspace\lgmweb
+3.개발망프로젝트경로:\\10.77.14.98\jeus_lgcns.mfg.partner
+4.운영프로젝트경로:\\165.244.227.203\jeus_mfgpartner
+
+1.시스템이름 : PLM
+2.로컬프로젝트경로:C:\Users\78068\workspace\PLM\PLM_dev
+3.개발망프로젝트경로: 
+4.운영프로젝트경로:
+
+1.시스템이름:X-NET
+2.로컬프로젝트경로:C:\Users\78068\workspace\XNET\xnet
+3.개발망프로젝트경로:
+4.운영프로젝트경로:
+
+
+검색파일종류:java,xml,xrw,jsp,js
+
+반영폴더경로:D:황철업무폴더\반영폴더
+
+폴더경로조정
+devonhome:WEB-INF\devonhome
+web:
+src:WEB-INF\classes
